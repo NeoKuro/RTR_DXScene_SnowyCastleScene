@@ -1,5 +1,5 @@
 # RTR_DXScene_SnowyCastleScene
-Project I worked on as a part of my University Degree (Computer Games Development). 
+Project I worked on as a part of my University Degree (Computer Games Development). Final grade for this coursework was: 92%
 
 I was required to implement a 3D "Castle" scene showing at minimum certain aspects of a castle such as towers, and that uses rendering techniques that were discussed in lectures such as; Texture Mapping and Water Effects at minimum. With one of; Foliage Effects, Particle Systems, and/or Lighting + Glow effects.
 
