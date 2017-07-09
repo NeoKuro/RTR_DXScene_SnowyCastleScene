@@ -1,0 +1,12 @@
+# Blender MTL File: 'Castle.blend'
+# Material Count: 1
+
+newmtl yellow_radiant.001
+Ns 11.764706
+Ka 0.715190 0.715190 0.715190
+Kd 0.442399 0.561516 0.700000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

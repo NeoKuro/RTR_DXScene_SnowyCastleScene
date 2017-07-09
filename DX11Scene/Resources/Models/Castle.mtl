@@ -1,0 +1,242 @@
+# Blender MTL File: 'Castle.blend'
+# Material Count: 22
+
+newmtl Material.001
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\DSC_4409.JPG
+
+newmtl Ocean
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Render_pebbly
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\RedBrick.png
+map_Ks  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\RedBrick.png
+
+newmtl Render_pebbly_pebbles.jpg
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Downloads\DX11Cswk\DX11Proj - Water\Resources\Textures\RedBrick.png
+map_Ks  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\RedBrick.png
+
+newmtl Roof_Tiles_04
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Downloads\DX11Cswk\DX11Proj - Water\Resources\Textures\Castle_Roof.jpg
+
+newmtl Roof_Tiles_04_NONE
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_Roof.jpg
+
+newmtl SpireRoof
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_Roof.jpg
+
+newmtl SpireRoof.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_Roof.jpg
+
+newmtl Terrain
+Ns 62.745098
+Ka 0.700000 0.700000 0.700000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_GrassSnow.jpg
+
+newmtl Wood
+Ns 282.352941
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 0.455696 0.455696 0.455696
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_WoodBridge.jpg
+
+newmtl ashlar_01
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Downloads\DX11Cswk\DX11Proj - Water\Resources\Textures\Castle_StoneWall.jpg
+
+newmtl ashlar_01_01.png
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\01.png
+
+newmtl ashlar_01_NONE
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_StoneWall.jpg
+
+newmtl ashlar_02
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\01.png
+
+newmtl ashlar_02.2
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\01.png
+
+newmtl brown
+Ns 62.745098
+Ka 0.100000 0.100000 0.100000
+Kd 0.501961 0.250980 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default
+Ns 62.745098
+Ka 0.700000 0.700000 0.700000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl planks_07_grey
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_WoodBridge.jpg
+
+newmtl planks_07_grey_wood_planks_old_0053_02_thumb.jpg
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Downloads\DX11Cswk\DX11Proj - Water\Resources\Textures\Castle_WoodBridge.jpg
+
+newmtl red_gloss
+Ns 62.745098
+Ka 0.100000 0.100000 0.100000
+Kd 0.750000 0.000000 0.063651
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_Roof.jpg
+
+newmtl white
+Ns 62.745098
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  D:\\Downloads\\DX11Cswk\\DX11Proj - Water\\Resources\\Textures\\Castle_StoneWall.jpg
+
+newmtl yellow_radiant
+Ns 11.764706
+Ka 0.715190 0.715190 0.715190
+Kd 0.442399 0.561516 0.700000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 5

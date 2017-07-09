@@ -1,0 +1,57 @@
+# Blender MTL File: 'CastleBackup.blend'
+# Material Count: 5
+
+newmtl Roof_Tiles_04.001
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_Roof.jpg
+
+newmtl Roof_Tiles_04_NONE
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_Roof.jpg
+
+newmtl SpireRoof.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_Roof.jpg
+
+newmtl SpireRoof.003
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_Roof.jpg
+
+newmtl red_gloss.001
+Ns 60.784314
+Ka 0.100000 0.100000 0.100000
+Kd 0.750000 0.000000 0.063651
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_Roof.jpg

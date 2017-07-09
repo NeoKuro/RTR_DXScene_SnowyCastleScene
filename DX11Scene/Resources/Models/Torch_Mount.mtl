@@ -1,0 +1,38 @@
+# Blender MTL File: 'wall-torch.blend'
+# Material Count: 3
+
+newmtl antorcha_con_soporte_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 D:\\Downloads\\The Key of The World\\Texturas\\objetos\\miscelanea\\antorchas\\antorcha con soporte texture 2 nmap.png
+map_Kd  D:\\Downloads\\The Key of The World\\Texturas\\objetos\\miscelanea\\antorchas\\antorcha con soporte texture 2.png
+
+newmtl wall-torch-mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 D:\\Downloads\\wall-torch\\wall-torch-n.png
+map_Kd  D:\\Downloads\\wall-torch\\wall-torch-diff.png
+
+newmtl wall-torch-mat.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 D:\\Downloads\\wall-torch\\wall-torch-n.png
+map_Kd  D:\\Downloads\\wall-torch\\wall-torch-diff.png

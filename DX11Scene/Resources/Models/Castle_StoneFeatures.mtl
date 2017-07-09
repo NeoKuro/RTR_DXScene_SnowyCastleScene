@@ -1,0 +1,79 @@
+# Blender MTL File: 'Castle.blend'
+# Material Count: 7
+
+newmtl Material.000
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Documents\University\RealTimeRendering\DSC_4409.JPG
+
+newmtl ashlar_01.001
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_StoneWall.jpg
+
+newmtl ashlar_01_01.png
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Documents\University\RealTimeRendering\01.png
+
+newmtl ashlar_01_NONE
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_StoneWall.jpg
+
+newmtl ashlar_02.001
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Documents\University\RealTimeRendering\01.png
+
+newmtl ashlar_02.003
+Ns 78.431373
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Documents\University\RealTimeRendering\01.png
+
+newmtl white.001
+Ns 60.784314
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Water\Resources\Textures\Castle_StoneWall.jpg
